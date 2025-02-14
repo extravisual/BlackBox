@@ -20,3 +20,4 @@ Click and drag near the center of the box to move the box.
 Click and drag near the edges of the box to resize the box.
 Right click and drag vertically to adjust the box opacity.
 Middle click to enable cursor auto-hiding.
+Escape or q to quit.
